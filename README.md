@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhinavi Venati</h1>
 <h3 align="center">Mechanical Engineering Student | CAD Designer | C++ Coder | Machine Learning Enthusiast</h3>
-🔧 Final year Mechanical Engineering student at VIT Vellore, passionate about turning ideas into reality through CAD design and programming. 💡
+
+🔧 Final year Mechanical Engineering student at VIT Vellore, passionate about turning ideas into reality through CAD design and programming. 
 
 💻 Skilled in C++, Python, Java, MATLAB, and AutoDesk Fusion 360. Interested in leveraging machine learning techniques with MATLAB. Collaborative and open to new challenges, I am constantly seeking opportunities to contribute and learn.
 
 🚀 Projects:
 
 🤝 Team Projects:
-1. Compressed air powered stair climber (Team of 4) - A stair climbing mechanism designed to help disabled people move up the stairs with ease.
-2. Rotary sand screening mechanism (Team of 6) - Optimizing sand filtering processes for enhanced productivity while cleaning beaches.
+1. Compressed Air Powered Stair Climber (Team of 4) - A stair climbing mechanism designed to help disabled people move up the stairs with ease.
+2. Rotary Sand Screening Mechanism (Team of 6) - Optimizing sand filtering processes for enhanced productivity while cleaning beaches.
    
 👨‍💻 Personal Projects:
-1. Supplier optimal recommender system using C++ - Streamlining supplier selection to achieve efficiency and cost savings.
-2. Iris flower classification using MATLAB - Leveraging machine learning to unlock the hidden patterns of nature.
+1. Optimal Supplier Recommender system using C++ - Streamlining supplier selection to achieve efficiency and cost savings.
+2. Iris flower classification using MATLAB - Leveraging machine learning to classify various iris flower species using MATLAB
 
 <h3 align="left">Languages and Tools:</h3>
 
