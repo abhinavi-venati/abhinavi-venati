@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhinavi Venati</h1>
-<h3 align="center">Mechanical Engineering Student | CAD Designer | C++ Coder | 🌟 Oracle Cloud Foundations Associate Certified 🌟</h3>
+<h3 align="center">Mechanical Engineer| CAD Designer | C++ Coder | 🌟 Oracle Cloud Foundations Associate Certified 🌟</h3>
 
 🔧 I am a Final year Mechanical Engineering student at Vellore Institute of Technology, Vellore. Passionate about turning ideas into reality through CAD design and programming. 
 
 💻 Skilled in C++, Python, Java, MATLAB, and AutoDesk Fusion 360. Interested in leveraging machine learning techniques with MATLAB. Collaborative and open to new challenges, I am constantly seeking opportunities to contribute and learn.
+
+🔹 Oracle Cloud Certified: Foundations Associate
+Passionate about all things cloud and technology, I have successfully achieved the Oracle Cloud Foundations Associate certification! 🚀 With a strong foundation in Oracle Cloud technologies, I'm ready to take on new challenges and contribute to transformative projects. I am exploring the realms of cloud architecture and solutions and committed to optimizing business processes through innovative cloud strategies.
 
 🚀 Projects:
 
