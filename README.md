@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinavi Venati</h1>
-<h3 align="center">Mechanical Engineering Student | CAD Designer | C++ Coder | Machine Learning Enthusiast</h3>
+<h3 align="center">Mechanical Engineering Student | CAD Designer | C++ Coder | Cloud Enthusiast |🌟 Oracle Cloud Foundations Associate Certified 🌟 </h3>
 
 🔧 I am a Final year Mechanical Engineering student at Vellore Institute of Technology, Vellore. Passionate about turning ideas into reality through CAD design and programming. 
 
