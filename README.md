@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinavi Venati</h1>
-<h3 align="center">Mechanical Engineer| CAD | CAM | CAE | C++ </h3>
+<h3 align="center">Mechanical Engineer | CAD | CAM | CAE | C++ </h3>
 
 💻 Skilled in C++, MATLAB, AutoDesk Fusion 360, AutoCAD and ansys.Collaborative and open to new challenges, I am constantly seeking opportunities to contribute and learn.
 
