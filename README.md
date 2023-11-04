@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinavi Venati</h1>
 <h3 align="center">Mechanical Engineer | CAD | CAM | CAE | C++ </h3>
 
-💻 Skilled in C++, MATLAB, AutoDesk Fusion 360, AutoCAD and Ansys.Collaborative and open to new challenges, I am constantly seeking opportunities to contribute and learn.
+💻 Skilled in C++, MATLAB, AutoDesk Fusion 360, AutoCAD and Ansys. Collaborative and open to new challenges, I am constantly seeking opportunities to contribute and learn.
 
 🔹 Oracle Cloud Certified: Foundations Associate
 
