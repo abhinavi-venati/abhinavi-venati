@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinavi Venati</h1>
 <h3 align="center">Mechanical Engineer | CAD | CAM | CAE | C++ </h3>
-
-💻 Skilled in C++, MATLAB, AutoDesk Fusion 360, AutoCAD and Ansys.
-
-🔹 Oracle Cloud Certified: Foundations Associate
    
 👨‍💻 Projects:
 1. Optimal Supplier Recommender system using C++ - A simple command line interface streamlining supplier selection to achieve efficiency and cost savings.
